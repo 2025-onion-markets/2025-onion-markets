@@ -1,4 +1,4 @@
-<img src="/unsorted/main.webp" width="200">
+<img src="/snapshots/preferences.webp" width="200">
 
 # 2025 Onion Markets: Your Guide to the Darknet
 
@@ -31,19 +31,18 @@ Use the [Tor Browser!](https://www.torproject.org/download/)
 
 #### 2025 Darknet Markets
 
+*   [Abacus - Market](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion) - `http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion`
+*   [Archetyp](@archetyp) - `http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion`
+*   [DarkDock - Market](http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion) - `http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion`
+*   [Dark Matter - Market](http://5whwnbcloidnmppwh4eklj3qe5p4iilsud3kc2igjh3rqzmz6tjjvmqd.onion) - `http://5whwnbcloidnmppwh4eklj3qe5p4iilsud3kc2igjh3rqzmz6tjjvmqd.onion`
+*   [DrugHub - Market](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion) - `http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion`
+*   [Elysium - Market](http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion) - `http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion`
+*   [Flugsvamp - 4.0 (Sweden)](http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion) - `http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion`
+*   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
 *   [Nexus - Market](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion) - `http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion`
 *   [Torzon Market](http://cdvrmuqeaufocpgr3o4u3kd7dxpe6m2zoreyva4jlntazmflkleowuad.onion) - `http://cdvrmuqeaufocpgr3o4u3kd7dxpe6m2zoreyva4jlntazmflkleowuad.onion`
-*   [Abacus - Market](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion) - `http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion`
-*   [DarkDock - Market](http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion) - `http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion`
-*   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
-*   [DrugHub - Market](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion) - `http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion`
-*   [Vortex - Market](http://bar47opq7wc4stbatgznejm3ko5l63z5u6ph3q34dfq2edf4i6arhsid.onion) - `http://bar47opq7wc4stbatgznejm3ko5l63z5u6ph3q34dfq2edf4i6arhsid.onion`
-*   [Ares -- Market](http://t3dhbmgywwrzynug67y5hfdyhcj65nkxi5pgo6zpail7znfv3awjmzad.onion) - `http://t3dhbmgywwrzynug67y5hfdyhcj65nkxi5pgo6zpail7znfv3awjmzad.onion`
-*   [Dark Matter - Market](http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion) - `http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion`
-*   [Kerberos - Market](@kerberos@) - `@kerberos@`
+*   [Vortex - Market](http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion) - `http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion`
 *   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
-*   [Flugsvamp - 4.0 (Sweden)](http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion) - `http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion`
-*   [Archetyp](@archetyp) - `http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion`
 
 ## 2025 Security Tips
 
